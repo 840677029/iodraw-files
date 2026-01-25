@@ -13,8 +13,8 @@
         <mxCell id="w6JJxAC9T6JBHRoLdTBI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w6JJxAC9T6JBHRoLdTBI-2" target="w6JJxAC9T6JBHRoLdTBI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w6JJxAC9T6JBHRoLdTBI-2" value="特定的情绪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="w6JJxAC9T6JBHRoLdTBI-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w6JJxAC9T6JBHRoLdTBI-4" value="人前显圣，装逼打脸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="230" width="120" height="60" as="geometry" />
